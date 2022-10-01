@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fydo-clone/static/css/main.baf8dc2b.css",
+    "main.js": "/fydo-clone/static/js/main.9ceb197b.js",
+    "static/media/2.jpg": "/fydo-clone/static/media/2.cfefcfff92b8e18eef38.jpg",
+    "static/media/3.jpg": "/fydo-clone/static/media/3.1c8dbd3f3ef99b727365.jpg",
+    "static/media/prem2.png": "/fydo-clone/static/media/prem2.9a2bbc06fabf8e5d77e5.png",
+    "static/media/bg.jpg": "/fydo-clone/static/media/bg.5b5d44b0a3a4ce9a91c4.jpg",
+    "static/media/4.jpg": "/fydo-clone/static/media/4.e61aa5846afa2fe5c7ba.jpg",
+    "static/media/5.jpg": "/fydo-clone/static/media/5.02e443ba99160412c594.jpg",
+    "static/media/3.png": "/fydo-clone/static/media/3.90d7bb23bdeb329bb8c8.png",
+    "static/media/4.png": "/fydo-clone/static/media/4.a74a8aa5a96ac2975aa8.png",
+    "static/media/cider.png": "/fydo-clone/static/media/cider.3d513537836a2e6b6556.png",
+    "static/media/6.jpg": "/fydo-clone/static/media/6.328b7e028a18e66b6f24.jpg",
+    "index.html": "/fydo-clone/index.html",
+    "main.baf8dc2b.css.map": "/fydo-clone/static/css/main.baf8dc2b.css.map",
+    "main.9ceb197b.js.map": "/fydo-clone/static/js/main.9ceb197b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baf8dc2b.css",
+    "static/js/main.9ceb197b.js"
+  ]
+}
