@@ -30,7 +30,7 @@ function Events() {
         modules={[FreeMode]}
         className={classes.container}
       >
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img1} className={classes.images} />
             <div className={classes.textBox}>
@@ -40,7 +40,7 @@ function Events() {
 
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img2} className={classes.images} />
             <div className={classes.textBox}>
@@ -50,7 +50,7 @@ function Events() {
 
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img3} className={classes.images} />
             <div className={classes.textBox}>
@@ -60,7 +60,7 @@ function Events() {
 
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img4} className={classes.images} />
             <div className={classes.textBox}>
@@ -70,7 +70,7 @@ function Events() {
 
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img5} className={classes.images} />
             <div className={classes.textBox}>
@@ -80,7 +80,7 @@ function Events() {
 
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img6} className={classes.images} />
             <div className={classes.textBox}>
@@ -90,7 +90,7 @@ function Events() {
 
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img1} className={classes.images} />
             <div className={classes.textBox}>
@@ -100,7 +100,7 @@ function Events() {
 
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img2} className={classes.images} />
             <div className={classes.textBox}>
@@ -110,7 +110,7 @@ function Events() {
 
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img3} className={classes.images} />
             <div className={classes.textBox}>
@@ -120,7 +120,7 @@ function Events() {
 
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img4} className={classes.images} />
             <div className={classes.textBox}>
@@ -130,7 +130,7 @@ function Events() {
 
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img5} className={classes.images} />
             <div className={classes.textBox}>
@@ -140,7 +140,7 @@ function Events() {
 
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img6} className={classes.images} />
             <div className={classes.textBox}>

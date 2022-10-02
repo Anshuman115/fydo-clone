@@ -31,7 +31,7 @@ function ShopsAround() {
         modules={[FreeMode]}
         className={classes.container}
       >
-        <SwiperSlide>
+        <SwiperSlide className={classes.box} >
           <div className={classes.box}>
             <img src={img1} className={classes.image} />
             <div className={classes.text}>
@@ -54,7 +54,7 @@ function ShopsAround() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.box}>
             <img src={img2} className={classes.image} />
             <div className={classes.text}>
@@ -73,7 +73,7 @@ function ShopsAround() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.box}>
             <img src={img3} className={classes.image} />
             <div className={classes.text}>
@@ -92,7 +92,7 @@ function ShopsAround() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.box}>
             <img src={img4} className={classes.image} />
             <div className={classes.text}>
@@ -111,7 +111,7 @@ function ShopsAround() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.box}>
             <img src={img5} className={classes.image} />
             <div className={classes.text}>
@@ -130,7 +130,7 @@ function ShopsAround() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.box}>
             <img src={img6} className={classes.image} />
             <div className={classes.text}>
@@ -149,7 +149,7 @@ function ShopsAround() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.box}>
             <img src={img1} className={classes.image} />
             <div className={classes.text}>
@@ -168,7 +168,7 @@ function ShopsAround() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.box}>
             <img src={img2} className={classes.image} />
             <div className={classes.text}>
@@ -187,7 +187,7 @@ function ShopsAround() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.box}>
             <img src={img3} className={classes.image} />
             <div className={classes.text}>
@@ -206,7 +206,7 @@ function ShopsAround() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.box}>
             <img src={img4} className={classes.image} />
             <div className={classes.text}>
@@ -225,7 +225,7 @@ function ShopsAround() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.box}>
             <img src={img5} className={classes.image} />
             <div className={classes.text}>
@@ -244,7 +244,7 @@ function ShopsAround() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.box}>
             <img src={img6} className={classes.image} />
             <div className={classes.text}>

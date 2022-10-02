@@ -31,7 +31,7 @@ function Deals() {
         modules={[FreeMode]}
         className={classes.container}
       >
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img1} className={classes.image} />
             <div className={classes.textBox}>
@@ -48,7 +48,7 @@ function Deals() {
           </div>
 
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img2} className={classes.image} />
             <div className={classes.textBox}>
@@ -64,7 +64,7 @@ function Deals() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img3} className={classes.image} />
             <div className={classes.textBox}>
@@ -80,7 +80,7 @@ function Deals() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img4} className={classes.image} />
             <div className={classes.textBox}>
@@ -96,7 +96,7 @@ function Deals() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img5} className={classes.image} />
             <div className={classes.textBox}>
@@ -112,7 +112,7 @@ function Deals() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img6} className={classes.image} />
             <div className={classes.textBox}>
@@ -128,7 +128,7 @@ function Deals() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img1} className={classes.image} />
             <div className={classes.textBox}>
@@ -144,7 +144,7 @@ function Deals() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img2} className={classes.image} />
             <div className={classes.textBox}>
@@ -160,7 +160,7 @@ function Deals() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img3} className={classes.image} />
             <div className={classes.textBox}>
@@ -176,7 +176,7 @@ function Deals() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img4} className={classes.image} />
             <div className={classes.textBox}>
@@ -192,7 +192,7 @@ function Deals() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img5} className={classes.image} />
             <div className={classes.textBox}>
@@ -208,7 +208,7 @@ function Deals() {
             </div>
           </div>
         </SwiperSlide>
-        <SwiperSlide>
+        <SwiperSlide className={classes.box}>
           <div className={classes.child}>
             <img src={img6} className={classes.image} />
             <div className={classes.textBox}>

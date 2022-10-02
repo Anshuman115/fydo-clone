@@ -21,12 +21,16 @@
 .container{
   margin-top: 1em;
   /* padding: 5px; */
-  border-radius: 10px;
+  /* border-radius: 10px; */
   width: 100%;
 }
 
-.child{
+.box{
   border-radius: 10px;
+}
+
+.child{
+  /* border-radius: 10px; */
   /* padding: 5px; */
   width: 100%;
   background-color: rgb(235, 235, 235);
