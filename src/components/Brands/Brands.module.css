@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-right: 20px;
+}
+
+.box{
+    width: 30%;
+    background-color: rgb(255, 255, 255);
+    height: 12vh;
+    margin-top: 1rem;
+  /* box-shadow: rgba(0, 0, 0, 0.5) 4px 4px 15px; */
+    border-radius: 10px;
+}
+.head{
+    /* display: flex; */
+  margin-top: 1em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.premium {
+  color: black;
+  font-size: 20px;
+}
+
+.viewMore {
+  color: gray;
+  margin-right: 30px;
+  font-size: 15px;
+}
+
+.images{
+    width: 100%;
+    height: 100%;
+    padding: 2px;
+}

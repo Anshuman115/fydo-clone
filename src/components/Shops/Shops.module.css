@@ -1,0 +1,65 @@
+.head {
+  /* display: flex; */
+  /* margin-top: 1em;/ */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.premium {
+  color: black;
+  font-size: 20px;
+}
+
+.viewMore {
+  color: gray;
+  margin-right: 30px;
+  font-size: 15px;
+}
+
+.box {
+  border-radius: 10px;
+}
+
+.container {
+  margin-top: 1em;
+  margin-right: 10px;
+}
+
+
+.child {
+  height: 15vh;
+  width: 100%;
+  border-radius: 10px;
+  background-color: rgb(205, 209, 218);
+  padding: 5px;
+  position: relative;
+}
+
+.child2 {
+  width: 50%;
+  position: absolute;
+  padding: 5px;
+  top: 0px;
+  left: 0px;
+  background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(255,13,13,1) 0%, rgba(252,176,69,1) 100%);
+  font-size: 10px;
+  border-radius: 10px;
+  color: white;
+  font-weight: 500;
+}
+
+.child3 {
+  width: 40%;
+  position: absolute;
+  padding: 2px;
+  top: 25%;
+  left: 0px;
+  background: rgb(19, 93, 38);
+  font-size: 10px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 500;
+}

@@ -1,0 +1,12 @@
+.banners{
+  margin-top: 1.2em;  
+  border-radius: 10px;
+  height: 22vh;
+  /* box-shadow: rgba(0, 0, 0, 0.5) 4px 4px 15px; */
+  margin-right: 20px;
+}
+
+.child{
+  width: 100%;
+  height: 100%;
+}
