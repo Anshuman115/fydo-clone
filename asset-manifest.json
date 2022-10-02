@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fydo-clone/static/css/main.be1a9480.css",
-    "main.js": "/fydo-clone/static/js/main.35e7f224.js",
+    "main.css": "/fydo-clone/static/css/main.7c232bc2.css",
+    "main.js": "/fydo-clone/static/js/main.158d4698.js",
     "static/media/2.jpg": "/fydo-clone/static/media/2.cfefcfff92b8e18eef38.jpg",
     "static/media/3.jpg": "/fydo-clone/static/media/3.1c8dbd3f3ef99b727365.jpg",
     "static/media/prem2.png": "/fydo-clone/static/media/prem2.9a2bbc06fabf8e5d77e5.png",
@@ -13,11 +13,11 @@
     "static/media/cider.png": "/fydo-clone/static/media/cider.3d513537836a2e6b6556.png",
     "static/media/6.jpg": "/fydo-clone/static/media/6.328b7e028a18e66b6f24.jpg",
     "index.html": "/fydo-clone/index.html",
-    "main.be1a9480.css.map": "/fydo-clone/static/css/main.be1a9480.css.map",
-    "main.35e7f224.js.map": "/fydo-clone/static/js/main.35e7f224.js.map"
+    "main.7c232bc2.css.map": "/fydo-clone/static/css/main.7c232bc2.css.map",
+    "main.158d4698.js.map": "/fydo-clone/static/js/main.158d4698.js.map"
   },
   "entrypoints": [
-    "static/css/main.be1a9480.css",
-    "static/js/main.35e7f224.js"
+    "static/css/main.7c232bc2.css",
+    "static/js/main.158d4698.js"
   ]
 }
